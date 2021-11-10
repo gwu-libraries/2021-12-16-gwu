@@ -103,7 +103,7 @@ the pitch.
 {% elsif site.carpentry == "dc" %}
 {% include dc/intro.html %}
 {% elsif site.carpentry == "lc" %}
-{% include lc/intro.html %}
+
 {% endif %}
 
 {% if site.pilot %}
