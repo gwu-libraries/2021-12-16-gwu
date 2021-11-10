@@ -6,13 +6,13 @@ layout: workshop      # DON'T CHANGE THIS.
 venue: "George Washington University Libraries"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "Room 301/302
 Gelman Library, George Washington University
-2130 H St NW, Washington, DC 20052."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+2130 H St NW, Washington, DC 20052"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: ""      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: ""     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: ""        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: ""       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "December 16-17, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 4:00 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2021-12-16     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-12-17      # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Laura Wrubel", "Dolsy Smith", "Leah Richardson" ] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
