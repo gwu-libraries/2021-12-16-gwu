@@ -1,9 +1,5 @@
 # Regular Epxressions
 
-## Pre-work
-
-Please review Library Carpentry's introduction to [regular expressions](https://librarycarpentry.org/lc-data-intro/01-regular-expressions/index.html) prior to the session. It's not necessary to step through the exercises. But this reading will provide some background and a useful reference for beginning to work with regular expressions (regex).
-
 ## Objectives
 
    - Practice thinking about text computationally
@@ -153,4 +149,9 @@ Make sure you test your new regex against the imprints we've already used to mak
 4. `Washington, D.C. : Judd & Detweiler, printers, 1870`
 
 5. `Boston : Printed by Samuel Etheridge for J. White, Thomas and Andrews, E. Larkin, W.P. Blake, J. West and J. Boyle, MDCCXCV [1795]`
+
+
+## Further reading
+
+The Library Carpentry [lesson on regular expressions](https://librarycarpentry.org/lc-data-intro/01-regular-expressions/index.html) provides a useful reference for beginning to work with regular expressions (regex).
 
