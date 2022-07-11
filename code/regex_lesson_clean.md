@@ -54,7 +54,7 @@ How would we extract the publisher, place of publication, and publication date f
   - We can use the period metacharacter to match any character whatsoever: `.`
   - Appending the plus sign to any regex pattern will match *one or more* instances of that pattern.
   - So `.+` will match any string containing one or more characters.
-  - We can use parentheses to create _capture groups_. These are useful for extracing parts of a larger string.
+  - We can use parentheses to create _capture groups_. These are useful for extracting parts of a larger string.
 
 _Answer_: `(.+) : (.+), (.+)`
 Note that in our pattern the period is a special regex character, called a metacharacter, not a regular period.  
